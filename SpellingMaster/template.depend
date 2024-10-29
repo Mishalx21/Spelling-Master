@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1675345603 source:h:\igraphics_games\template\imain.cpp
+	"iGraphics.h"
+
+1676605079 h:\igraphics_games\template\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1676738457 source:h:\igraphics_games\template\picturedemo.cpp
+	"iGraphics.h"
+
+1676972638 source:e:\igraphics_games\spellingmaster\picturedemo.cpp
+	"iGraphics.h"
+
+1676970089 e:\igraphics_games\spellingmaster\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1677174122 source:h:\spellingmaster\picturedemo.cpp
+	"iGraphics.h"
+
+1677173202 h:\spellingmaster\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1677233494 source:e:\igraphics_games\spellingmaster315\spellingmaster\picturedemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1677231056 e:\igraphics_games\spellingmaster315\spellingmaster\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1678126574 source:h:\spellingmaster315\spellingmaster\picturedemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1677231058 h:\spellingmaster315\spellingmaster\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
